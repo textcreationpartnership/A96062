@@ -1,0 +1,1946 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The application of a new portable scale, (being the first of this nature) in resolving questions in the following particulars viz. Interest, for any sum, time or rate. Discount, of bills, tallies, stock, &amp;c. Factoridge brokeridge commission exchange, &amp;c. at all rates. Value of any quantity of goods, merchandize, or any fractional part of an intiger. Of any number of pistols, dollers, or other foreign coin. Of wages due to any workmen or seamen, for any time or rate: as also short allowance. Number, of days in any distance of time. Proportion, of any sum per annum, to one or any number of dayes. And several other profitable uses. The second edition, with additions. Invented by Tho. Wastell.</title>
+            <author>Wastell, Tho. (Thomas)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96062</idno>
+            <idno type="STC">Wing W1031A</idno>
+            <idno type="STC">ESTC R230807</idno>
+            <idno type="EEBO-CITATION">99896052</idno>
+            <idno type="PROQUEST">99896052</idno>
+            <idno type="VID">153738</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96062)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153738)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2376:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The application of a new portable scale, (being the first of this nature) in resolving questions in the following particulars viz. Interest, for any sum, time or rate. Discount, of bills, tallies, stock, &amp;c. Factoridge brokeridge commission exchange, &amp;c. at all rates. Value of any quantity of goods, merchandize, or any fractional part of an intiger. Of any number of pistols, dollers, or other foreign coin. Of wages due to any workmen or seamen, for any time or rate: as also short allowance. Number, of days in any distance of time. Proportion, of any sum per annum, to one or any number of dayes. And several other profitable uses. The second edition, with additions. Invented by Tho. Wastell.</title>
+                  <author>Wastell, Tho. (Thomas)</author>
+               </titleStmt>
+               <extent>40 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, and sold by Richard Mount, at the Postern on Tower-Hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Factorage ... exchange, &amp;c." joined by a right brace. "Of any quantity ... short allowance." joined by a left brace.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Interest --  Tables --  Early works to 1800.</term>
+               <term>Saving and investment --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="introduction">
+                  <pb facs="tcp:153738:1" rendition="simple:additions"/>
+                  <pb facs="tcp:153738:1"/>
+                  <pb facs="tcp:153738:2"/>
+                  <pb facs="tcp:153738:2"/>
+                  <pb facs="tcp:153738:3"/>
+                  <p>
+                     <hi>THE following Report was made to the Royal Society at</hi> Greſham <hi>Colledg the Third of</hi> April, <hi>1700. by the Ingenious Dr.</hi> Hook.</p>
+                  <p>That he had conſider'd the Uſe of the <hi>Portable Scale,</hi> Invented by Mr. <hi>Tho. Waſtell,</hi> and finds it to be Ingenious, and of good Uſe for the more expeditious Performance of the Operations mentioned, to be thereby per<g ref="char:EOLhyphen"/>formable in the Title of his Book.</p>
+               </div>
+               <div type="title_page">
+                  <pb facs="tcp:153738:3"/>
+                  <p>THE APPLICATION OF A New Portable SCALE, (Being the Firſt of this Nature) In Reſolving Queſtions in the fol<g ref="char:EOLhyphen"/>lowing Particulars, <hi>viz.</hi>
+                  </p>
+                  <list>
+                     <item>INTEREST, For any Sum, Time or Rate.</item>
+                     <item>DISCOUNT, Of Bills, Tallies, Stock, <hi>&amp;c.</hi>
+                     </item>
+                     <item>FACTORIDGE At all Rates.</item>
+                     <item>BROKERIDGE At all Rates.</item>
+                     <item>COMMISSION At all Rates.</item>
+                     <item>EXCHANGE, <hi>&amp;c.</hi> At all Rates.</item>
+                     <item>VALUE Of any Quantity of Goods, Mer<g ref="char:EOLhyphen"/>chandize, or any Fractional part of an Intiger. Of any Num<g ref="char:EOLhyphen"/>ber of Piſtols, Dollers, or other Foreign Coin. Of Wages due to any Workmen or Seamen, for any Time or Rate: As alſo Short Allowance.</item>
+                     <item>NUMBER, Of Days in any diſtance of Time.</item>
+                     <item>PROPORTION, Of any Sum <hi>per Annum,</hi> to One or any Number of Dayes. And ſeveral other profitable USES.</item>
+                  </list>
+                  <p>The Second Edition, with Additions.</p>
+                  <p>Invented by <hi>THO. WASTELL.</hi>
+                  </p>
+                  <p>
+                     <hi>London,</hi> Printed for the Author, and Sold by <hi>Richard Mount,</hi> at the <hi>Poſtern</hi> on <hi>Tower-Hill.</hi> 1700.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:153738:4"/>
+                  <pb facs="tcp:153738:4"/>
+                  <head>To the Honoured <hi>Charles Sergiſon,</hi> 
+                     <abbr>Eſq</abbr> CLERK of the Acts OF HIS Majeſty's Royal Navy.</head>
+                  <p>THis Scale (which is the Product of ſome vacant Minutes) is in Grateful Acknow<g ref="char:EOLhyphen"/>ledgment of many Fa<g ref="char:EOLhyphen"/>vours moſt humbly de<g ref="char:EOLhyphen"/>dicated and preſented by</p>
+                  <closer>
+                     <signed>His moſt Dutiful and Obedient Servant <hi>Tho. Waſtell.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:153738:5"/>
+                  <head>How to Tabulate any Number on this SCALE.</head>
+                  <p>EAch of the ſix Reds hath the nine Digits, and a proper Sum to each Digitt on the right hand of it; which Rods are numbred on the outermoſt end with 1. 10. 100. 1000. 10000, <hi>&amp;c.</hi> and are to be drawn out 'till the proper Figure (and the Sum appertaining) come into the vacancy on the right hand end of the Scale, clear of any other Sum: All Units are to be found on the Unit-Rod, Tens on 10 Rods, Hundreds on 100 Rod, and Thouſands on the 1000 Rod, <hi>&amp;c.</hi> To Tabulate 743, pull out the 100 Rod to 7, 10 Rod to 4, and Unit Rod to 3; and place the Numbers exactly one under another, and add the Sums to anſwer the Queſ<g ref="char:EOLhyphen"/>tion, and the like for any other Sum.</p>
+                  <p>In ſhifting the Sides, turn the <hi>Rods</hi> one by one into their own Places.</p>
+                  <div type="part">
+                     <pb n="7" facs="tcp:153738:5"/>
+                     <head>
+                        <hi>Intereſt</hi> at any <hi>Rate,</hi> for any <hi>Time</hi> or <hi>Sum. <hi>Found on the Firſt Side.</hi>
+                        </hi>
+                     </head>
+                     <p>
+                        <hi>R<g ref="char:V">Ʋ</g>LE.</hi> MUltiply the Sum by the Number of Days, and the Product by the Rate of Intereſt, Tabulate this laſt Product as before, and add the ſeveral Sums found, for the Intereſt required.</p>
+                     <p>Intereſt of Shillings is found by the ſame Rule, dividing the laſt Product by 20.</p>
+                     <p>Three Quarters, Half, a Quarter, and Half Quarter <hi>per Cent.</hi> Is that proportion of the Pro<g ref="char:EOLhyphen"/>duct of the Sum, Multiplied by the Number of Days, and to be added to the Product when multiplied by the even Rate.</p>
+                     <p>
+                        <hi>Note,</hi> Farthings are expreſs'd by Dotts, and fifth part of Farthings by (‴) and where four fifths happen, one ought to be added.</p>
+                     <p>The laſt Figure on the right hand need not to be Tabulated, in any Operation on the Firſt Side; therefore the Unite-Rod is omitted.</p>
+                     <div type="examples">
+                        <head>Examples at large.</head>
+                        <p>What 354 <hi>l.</hi> at 5 <hi>per Cent.</hi> for 321 <hi>days,</hi>
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <pb n="8" facs="tcp:153738:6"/>
+                        <p>What 67 ∶ 16 ∶ 0 for 73 <hi>days</hi> at 9 <hi>per Cent.</hi>
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>Or by one Operation, if Shillings and Pence be turn'd into Decimals.</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>
+                        <hi>Diſcount</hi> of <hi>Bills, Tallies,</hi> or <hi>Stocks.</hi>
+                     </head>
+                     <head type="sub">On the Firſt Side.</head>
+                     <p>
+                        <hi>R<g ref="char:V">Ʋ</g>LE.</hi> Multiply the Sum by 365, and the Product by the Rate of Diſcount, which laſt Product Tabulate, and Subtract the Intereſt found, out of the Principal.</p>
+                     <p>
+                        <hi>Note.</hi> Fractions either in Sum or Rate are re<g ref="char:EOLhyphen"/>ſolved as in Intereſt.</p>
+                     <div type="examples">
+                        <head>Examples at large.</head>
+                        <p>What 230 <hi>l.</hi> at 7 <hi>per Cent.</hi> Diſcount.
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <pb n="9" facs="tcp:153738:6"/>
+                        <p>What 150 <hi>l.</hi> at 4½ <hi>per Cent.</hi> Diſcount
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>What 2123 <hi>l.</hi> at 2¾ <hi>per Cent.</hi> Diſcount.
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <pb n="10" facs="tcp:153738:7"/>
+                        <p>What 315 <hi>l.</hi> at 17 <hi>per Cent.</hi> Advance.
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>Brokeridge, Factoridge, Commiſ<g ref="char:EOLhyphen"/>ſion, Exchange, <hi>&amp;c.</hi>
+                     </head>
+                     <head type="sub">On the Firſt Side.</head>
+                     <p>Are all performed by the ſame <hi>R<g ref="char:V">Ʋ</g>LE.</hi>
+                     </p>
+                     <div type="examples">
+                        <head>Examples.</head>
+                        <p>What 7562 <hi>l.</hi> at 1½ and ½ Quarter <hi>ptr Cent.</hi>
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <pb n="11" facs="tcp:153738:7"/>
+                        <p>What 412 <hi>l.</hi> at 5 <hi>per Cent.</hi>
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>
+                        <hi>Gold</hi> or <hi>Foreign Coin</hi> to caſt up.</head>
+                     <head type="sub">On the Second Side.</head>
+                     <p>Piſtols at 17 <hi>s.</hi> 6 <hi>d.</hi> Multiply their Number by 7, and then by 30, and Tabulate as above.</p>
+                     <p>Dollers, Pieces of Eight, <hi>&amp;c.</hi> Multiply their Number by the value of Pence in each, and Tabulate.</p>
+                     <div type="examples">
+                        <head>Examples.</head>
+                        <p>What 513 Piſtols at 00 ∶ 17 ∶ 6 each.
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>What 1714 Dollers at 54 <hi>d.</hi> each.
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <pb n="12" facs="tcp:153738:8"/>
+                     <head>
+                        <hi>Value</hi> of <hi>Goods</hi> or <hi>Merchandize.</hi>
+                     </head>
+                     <head type="sub">On the Second Side.</head>
+                     <p>Multiply the Number of Yards, Ells, Pounds, Ounces, <hi>&amp;c.</hi> by the Value of one, in Pence, and Tabulate the Product.</p>
+                     <p>Half pence or Farthings, Take Half, Quar<g ref="char:EOLhyphen"/>ter, or three Quarters of the Numbet or Quan<g ref="char:EOLhyphen"/>tity, and add to the Product.</p>
+                     <div type="examples">
+                        <head>Examples.</head>
+                        <p>What 227 Ounces at 5 <hi>d. per</hi> Ounce?
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>What 1345 Yards at 20 <hi>l. per</hi> Yard.
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>What 5602 Feet at 2 <hi>d.</hi> ½ <hi>per</hi> Foot.
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>What 730 at 4 <hi>d.</hi> ¼ each.
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <pb n="13" facs="tcp:153738:8"/>
+                        <p>Or, if the Price of the Commodity, <hi>&amp;c.</hi> con<g ref="char:EOLhyphen"/>ſiſt but of one Figure, Tabulate the Number or Quantity given, and multiply it by the ſaid Figure on the Scale, by beginning at Units, removing the Rod to the proper Figure when multiplied, and carry the Tens to the next Rod, and ſo on; adding up the Sums apper<g ref="char:EOLhyphen"/>taining to the Product for anſwering the Queſ<g ref="char:EOLhyphen"/>tion.</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>
+                        <hi>Wages</hi> to <hi>Workmen</hi> at <hi>Day-work.</hi>
+                     </head>
+                     <head type="sub">On the Second Side.</head>
+                     <p>Multiply the Number of Days, by the Num<g ref="char:EOLhyphen"/>ber of Pence for one Day, and Tabulate; Fractions, found as the laſt.</p>
+                     <p>What 83 Days at 21 <hi>d. per Diem?</hi>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>What 365 Days at 2 <hi>s.</hi> 2 <hi>d. per Diem?</hi>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <pb n="14" facs="tcp:153738:9"/>
+                     <head>
+                        <hi>Wages</hi> to <hi>Workmen</hi> by the <hi>Year.</hi>
+                     </head>
+                     <head type="sub">On the Firſt Side.</head>
+                     <p>Multiply the Sum <hi>per Annum</hi> by the Number of Days required, add two Cyphers to the right hand of the Product and Tabulate.</p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>At 24 <hi>per Annum,</hi> what 77 Days?
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                     </div>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>At 36 10 <hi>per Annum,</hi> what 112 Days?
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>
+                           <hi>Note,</hi> No Cyphers are to be added where Decimals are uſed.</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>
+                        <hi>Seamen</hi>'s <hi>Wages</hi> by the <hi>Year.</hi>
+                     </head>
+                     <head type="sub">On the the Firſt Side.</head>
+                     <p>Multiply the Decimal of the Sum <hi>per Annum</hi> by the Number of Days, Tabulate the Pro<g ref="char:EOLhyphen"/>duct, omitting the laſt Figure to the right Hand.</p>
+                     <div type="examples">
+                        <pb n="15" facs="tcp:153738:9"/>
+                        <head>Examples.</head>
+                        <p>What 28 Days at <hi>l.</hi> 24 ∶ 8 ∶ 10 <hi>per Annum.</hi>
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>What 90 Days at <hi>Ditto.</hi>
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>What One Day at <hi>Ditto.</hi>
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>
+                        <hi>Wages</hi> to <hi>Seamen <hi>per Menſem.</hi>
+                        </hi>
+                     </head>
+                     <head type="sub">On the Second Side.</head>
+                     <p>As 280 is to the Rate <hi>per</hi> Month, in Pence, ſo is the Number of Days to a Number re<g ref="char:EOLhyphen"/>quired; to which add a (0) to the right Hand and Tabulate.</p>
+                     <p>The Pence may be taken Full or Nett.</p>
+                     <p>
+                        <hi>Note,</hi> Cut off the odd pence of the Sum found.</p>
+                     <div type="examples">
+                        <pb n="16" facs="tcp:153738:10"/>
+                        <head>Examples.</head>
+                        <p>What 365 Days at 24 <hi>s. per Menſem.</hi>
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>What 1210 Days at 4 ∶ 6 ∶ 2 <hi>per Menſem.</hi>
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>Short Allowance.</head>
+                     <head type="sub">On the Second Side.</head>
+                     <p>Multiply the Number of Days by the Num<g ref="char:EOLhyphen"/>ber of Pence for one Day, and Tabulate: For Fractions, add the proportion of the Number of Days.</p>
+                     <div type="examples">
+                        <head>Examples.</head>
+                        <p>What 307 Days at ⅔ of all Proviſions.
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>What 145 Days at ½ Allow. of all Proviſions.
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <pb n="17" facs="tcp:153738:10"/>
+                     <head>
+                        <hi>A Yearly Sum, Penſion, Sala<g ref="char:EOLhyphen"/>ry, <hi>&amp;c.</hi>
+                        </hi> being given, to find the <hi>Proportion</hi> to any <hi>Number</hi> of <hi>Days.</hi>
+                     </head>
+                     <head type="sub">On the firſt Side.</head>
+                     <p>Multiply the Sum by the Number of Days, add (00) to the right hand of the Product and Tabulate.</p>
+                     <div type="examples">
+                        <head>Examples.</head>
+                        <p>At 450 <hi>l. per Annum,</hi> what 49 Days?
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>At 60 <hi>l. per Annum,</hi> what 99 Days?
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>If there be Shillings in the Yearly Sum, take the Decimal and work as before, without ad<g ref="char:EOLhyphen"/>ding the (00)</p>
+                     </div>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>At <hi>l.</hi> 11 ∶ 17 ∶ 0 <hi>per Ann.</hi> what 32 Days?
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <pb n="18" facs="tcp:153738:11"/>
+                        <p>For one Day, add (00) to the Sum <hi>per Ann.</hi> if an even Sum, and Tabulate; but if a De<g ref="char:EOLhyphen"/>cimal Tabulate the Decimal.</p>
+                     </div>
+                     <div type="examples">
+                        <head>Examples.</head>
+                        <p>At 70 <hi>l. per Ann.</hi> what a Day? 7000 Tab. gives 0 ∶ 3 ∶ 10.</p>
+                        <p>At 48 ∶ 10 ∶ <hi>per Ann.</hi> what one Day? 4850 Tab. <hi>l.</hi> 0 ∶ 2 ∶ 3¼.</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>The <hi>Price</hi> of a <hi>Load</hi> of <hi>Timber,</hi> be<g ref="char:EOLhyphen"/>ing given, to find the <hi>Value</hi> of any <hi>Number</hi> of <hi>Feet</hi> under a <hi>Load.</hi>
+                     </head>
+                     <head type="sub">On the Firſt Side.</head>
+                     <p>Multiply the Price <hi>per</hi> Load (in Decimals) by (73) and that by the Number of Feet, cut off two Figures to the right hand of the Pro<g ref="char:EOLhyphen"/>duct, and Tabulate the Remainder.</p>
+                     <div type="examples">
+                        <head>Examples.</head>
+                        <p>At 3 ∶ 7 ∶ 6 <hi>per</hi> Load, what 17 Feet?
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <pb n="19" facs="tcp:153738:11"/>
+                        <p>At <hi>l.</hi> 5 ∶ 10 ∶ 9 <hi>per</hi> Load, what 11 Feet, and what one Foot?
+<gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>Or if by the Tun or 40 Feet, Multiply by 912, 5.</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>
+                        <hi>Common Multiplicands,</hi> to find the Value of any Number of <hi>Feet,</hi> of <hi>Plank</hi> of any Thickneſs under a <hi>Load,</hi> at any <hi>Price <hi>per</hi> Load:</hi> By the foregoing <hi>Rule.</hi>
+                     </head>
+                     <p>
+                        <table>
+                           <row>
+                              <cell role="label">
+                                 <hi>Inches thick.</hi>
+                              </cell>
+                              <cell role="label">
+                                 <hi>Multipl.</hi>
+                              </cell>
+                              <cell role="label">
+                                 <hi>Inches. thick.</hi>
+                              </cell>
+                              <cell role="label">
+                                 <hi>Multipl.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>10</cell>
+                              <cell>608,33</cell>
+                              <cell>5</cell>
+                              <cell>304,1</cell>
+                           </row>
+                           <row>
+                              <cell>9½</cell>
+                              <cell>577,97</cell>
+                              <cell>4½</cell>
+                              <cell>279,43</cell>
+                           </row>
+                           <row>
+                              <cell>9</cell>
+                              <cell>550,52</cell>
+                              <cell>4</cell>
+                              <cell>243,33</cell>
+                           </row>
+                           <row>
+                              <cell>8½</cell>
+                              <cell>521,43</cell>
+                              <cell>3½</cell>
+                              <cell>212,92</cell>
+                           </row>
+                           <row>
+                              <cell>8</cell>
+                              <cell>486,66</cell>
+                              <cell>3</cell>
+                              <cell>182,5</cell>
+                           </row>
+                           <row>
+                              <cell>7½</cell>
+                              <cell>456,25</cell>
+                              <cell>2½</cell>
+                              <cell>152,1</cell>
+                           </row>
+                           <row>
+                              <cell>7</cell>
+                              <cell>425,85</cell>
+                              <cell>2</cell>
+                              <cell>121,65</cell>
+                           </row>
+                           <row>
+                              <cell>6½</cell>
+                              <cell>392,62</cell>
+                              <cell>1½</cell>
+                              <cell>91,25</cell>
+                           </row>
+                           <row>
+                              <cell>6</cell>
+                              <cell>365,</cell>
+                              <cell>1</cell>
+                              <cell>60,83</cell>
+                           </row>
+                           <row>
+                              <cell>5½</cell>
+                              <cell>332,61</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                        </table>
+                     </p>
+                     <pb n="20" facs="tcp:153738:12"/>
+                     <p>And by the ſame Rule may the value of any part or proportion of the Particulars following be reſolved at any Rate.</p>
+                     <list>
+                        <item>Great Hundred or (112) if multiplied by 326,</item>
+                        <item>Neat Hundred, or (100) W<hi rend="sup">t.</hi> or N<hi rend="sup">o.</hi> by 365,</item>
+                        <item>6 Score to the C. or (120) W<hi rend="sup">t.</hi> or N<hi rend="sup">o.</hi> by 304,2</item>
+                        <item>If to the Hundred (108) W<hi rend="sup">t.</hi> or N<hi rend="sup">o.</hi> by 337,96</item>
+                        <item>For a Hogſhead of (63) Gall.—by 579,38</item>
+                        <item>For a Tun of —(252) Gall.—by 144,84</item>
+                     </list>
+                     <p>Or any other Denomination whatſoever; firſt finding out its common Multiplier by this Rule, Divide 36500, by the Number or parts in the Denomination, and if any Fraction re<g ref="char:EOLhyphen"/>main, add Cyphers to the Dividend, and pro<g ref="char:EOLhyphen"/>ceed as far as it will allow, ſeperating the Quotes got by the Addition of Cyphers, for Decimal parts, and the Quotient will be the common Multiplier to that Denomination.</p>
+                     <p>
+                        <hi>Note,</hi> That in all Operations where Deci<g ref="char:EOLhyphen"/>mals are multiplied; as many places to the right hand of the Product be cut off, as there are Decimals in the <hi>Multiplicand,</hi> and <hi>Multi<g ref="char:EOLhyphen"/>plier,</hi> and the reſt only Tabulated on the Scale.</p>
+                  </div>
+                  <div type="part">
+                     <head>
+                        <hi>Time</hi> to Caſt into <hi>Days.</hi>
+                     </head>
+                     <head type="sub">On the back ſide of the Rule.</head>
+                     <p>The Number on the right hand of the Dia<g ref="char:EOLhyphen"/>gonal Line, are the Number of Days from the firſt of <hi>January</hi> to the firſt of the Month over it; the Number on the left hand are from the
+<pb n="21" facs="tcp:153738:12"/> laſt of <hi>December</hi> to the laſt of the Month; the Days in the Month to be added or ſubtracted.</p>
+                     <p>From the Number of Days to the laſt Day given; ſubtract the Number of Days to the firſt Day, from the firſt of <hi>January.</hi>
+                     </p>
+                     <p>This Table is caſt for Four Years.</p>
+                     <p>From 1 <hi>January</hi>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>To 17 <hi>October</hi>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>From 12 <hi>April</hi>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>To 31 <hi>December</hi>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>From 1 <hi>January</hi> 9 8/9
+<gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>To 23 <hi>November</hi> 1700
+<gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>From 1 <hi>January</hi> 9¾
+<gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>To 10 <hi>May</hi> 97
+<gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>From 11 <hi>June</hi> 98
+<gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>To 9 <hi>May</hi> 99
+<gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <pb n="22" facs="tcp:153738:13"/>
+                     <p>From 3 <hi>April</hi> 96
+<gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>To 21 <hi>December</hi> 99
+<gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>From 1 <hi>October</hi> 97
+<gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <p>To 19 <hi>January</hi> 9 8/9
+<gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>For Reducing Shillings, Pence <hi>and</hi> Farthings <hi>into</hi> Decimals, <hi>the</hi> Intiger <hi>being</hi> One Pound.</head>
+                     <p>
+                        <table>
+                           <row>
+                              <cell role="label">
+                                 <hi>Sh.</hi>
+                              </cell>
+                              <cell> </cell>
+                              <cell role="label">
+                                 <hi>Sh.</hi>
+                              </cell>
+                              <cell> </cell>
+                              <cell role="label">
+                                 <hi>Sh.</hi>
+                              </cell>
+                              <cell> </cell>
+                              <cell role="label">
+                                 <hi>d.</hi>
+                              </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>19</cell>
+                              <cell>9500</cell>
+                              <cell>10</cell>
+                              <cell>5000</cell>
+                              <cell>1</cell>
+                              <cell>0500</cell>
+                              <cell>4</cell>
+                              <cell>0168</cell>
+                           </row>
+                           <row>
+                              <cell>18</cell>
+                              <cell>9000</cell>
+                              <cell>9</cell>
+                              <cell>4500</cell>
+                              <cell>
+                                 <hi>d.</hi>
+                              </cell>
+                              <cell> </cell>
+                              <cell>3</cell>
+                              <cell>0125</cell>
+                           </row>
+                           <row>
+                              <cell>17</cell>
+                              <cell>8500</cell>
+                              <cell>8</cell>
+                              <cell>4000</cell>
+                              <cell>11</cell>
+                              <cell>0458</cell>
+                              <cell>2</cell>
+                              <cell>0083</cell>
+                           </row>
+                           <row>
+                              <cell>16</cell>
+                              <cell>8000</cell>
+                              <cell>7</cell>
+                              <cell>3500</cell>
+                              <cell>10</cell>
+                              <cell>0417</cell>
+                              <cell>1</cell>
+                              <cell>0042</cell>
+                           </row>
+                           <row>
+                              <cell>15</cell>
+                              <cell>7500</cell>
+                              <cell>6</cell>
+                              <cell>3000</cell>
+                              <cell>9</cell>
+                              <cell>0375</cell>
+                              <cell>
+                                 <hi>far.</hi>
+                              </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>14</cell>
+                              <cell>7000</cell>
+                              <cell>5</cell>
+                              <cell>2500</cell>
+                              <cell>8</cell>
+                              <cell>0333</cell>
+                              <cell>3</cell>
+                              <cell>0031</cell>
+                           </row>
+                           <row>
+                              <cell>13</cell>
+                              <cell>6500</cell>
+                              <cell>4</cell>
+                              <cell>2000</cell>
+                              <cell>7</cell>
+                              <cell>0292</cell>
+                              <cell>2</cell>
+                              <cell>0021</cell>
+                           </row>
+                           <row>
+                              <cell>12</cell>
+                              <cell>6000</cell>
+                              <cell>3</cell>
+                              <cell>1500</cell>
+                              <cell>6</cell>
+                              <cell>0250</cell>
+                              <cell>1</cell>
+                              <cell>0010</cell>
+                           </row>
+                           <row>
+                              <cell>11</cell>
+                              <cell>5500</cell>
+                              <cell>2</cell>
+                              <cell>1000</cell>
+                              <cell>5</cell>
+                              <cell>0208</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>Or, if the Shillings be even, take half for the firſt Figure of the Decimal; if odd, add 5 for the ſecond Figure; reduce the Pence into Far<g ref="char:EOLhyphen"/>things,
+<pb n="23" facs="tcp:153738:13"/> to which add the Farthings (if any to be reduc'd) and add the Tens to the ſecond Figure whether 0 or 5, and put the Remainder in the third Place: But if the Number of Farthings be above 24, one more ought always to be added.</p>
+                     <p>Any Decimal given are reduced into Shil<g ref="char:EOLhyphen"/>lings, Pence and Farthings, by the Reverſe of this Rule.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="text">
+                  <pb facs="tcp:153738:14"/>
+                  <pb facs="tcp:153738:14"/>
+                  <head>Some further Uſes this SCALE is applicable to, Occur'd ſince the Firſt Edition, <hi>VIZ.</hi>
+                     <list>
+                        <item>Compound <hi>Intereſt,</hi> or <hi>Rebate.</hi>
+                        </item>
+                        <item>Annuities, <hi>Forbearance, Diſcount</hi> or <hi>Purchaſe.</hi>
+                        </item>
+                        <item>Diviſion, to <hi>Three Decimal Parts.</hi>
+                        </item>
+                        <item>Rule of Three, <hi>Direct</hi> or <hi>Inverſe.</hi>
+                        </item>
+                        <item>Reduction, <hi>Aſcending</hi> or <hi>Deſcending.</hi>
+                        </item>
+                        <item>Fellowſhip, <hi>Loſs</hi> or <hi>Gain.</hi>
+                        </item>
+                        <item>Exchange, <hi>Inwards</hi> or <hi>Outwards.</hi>
+                        </item>
+                        <item>Tare <hi>and</hi> Trett.</item>
+                        <item>Equation of Payments, <hi>and</hi>
+                        </item>
+                        <item>Further Directions for Caſting Seamens Wages, at any Rate <hi>per Menſem,</hi> &amp;c.</item>
+                     </list>
+                  </head>
+                  <byline>By <hi>THO. WASTELL.</hi>
+                  </byline>
+                  <div type="part">
+                     <pb n="26" facs="tcp:153738:15"/>
+                     <head>
+                        <hi>Compound Intereſt at</hi> 6 per Cent.</head>
+                     <p>
+                        <table>
+                           <row>
+                              <cell role="label">
+                                 <hi>Years.</hi>
+                              </cell>
+                              <cell role="label">
+                                 <hi>Increaſe of Money.</hi>
+                              </cell>
+                              <cell role="label">
+                                 <hi>Rebate of Money.</hi>
+                              </cell>
+                              <cell role="label">
+                                 <hi>Forbearance of Annuities.</hi>
+                              </cell>
+                              <cell role="label">
+                                 <hi>Diſcount of Annuities.</hi>
+                              </cell>
+                              <cell role="label">
+                                 <hi>Purchaſe of Annuities.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>1</cell>
+                              <cell>2190,00</cell>
+                              <cell>34433,85</cell>
+                              <cell>0000,00</cell>
+                              <cell>34433,85</cell>
+                              <cell>38690,00</cell>
+                           </row>
+                           <row>
+                              <cell>2</cell>
+                              <cell>4511,40</cell>
+                              <cell>32484,85</cell>
+                              <cell>2190,00</cell>
+                              <cell>66917,70</cell>
+                              <cell>19908,19</cell>
+                           </row>
+                           <row>
+                              <cell>3</cell>
+                              <cell>6971,86</cell>
+                              <cell>30646,09</cell>
+                              <cell>6701,40</cell>
+                              <cell>97564,93</cell>
+                              <cell>13415,01</cell>
+                           </row>
+                           <row>
+                              <cell>4</cell>
+                              <cell>9579,15</cell>
+                              <cell>28911,39</cell>
+                              <cell>13673,26</cell>
+                              <cell>126476,33</cell>
+                              <cell>10533,53</cell>
+                           </row>
+                           <row>
+                              <cell>5</cell>
+                              <cell>12345,03</cell>
+                              <cell>27184,81</cell>
+                              <cell>23253,78</cell>
+                              <cell>153751,24</cell>
+                              <cell>8664,73</cell>
+                           </row>
+                           <row>
+                              <cell>6</cell>
+                              <cell>15275,61</cell>
+                              <cell>25731,04</cell>
+                              <cell>35588,81</cell>
+                              <cell>179482,32</cell>
+                              <cell>7422,64</cell>
+                           </row>
+                           <row>
+                              <cell>7</cell>
+                              <cell>18382,49</cell>
+                              <cell>24274,48</cell>
+                              <cell>50874,79</cell>
+                              <cell>20375<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>,90</cell>
+                              <cell>6538,25</cell>
+                           </row>
+                           <row>
+                              <cell>8</cell>
+                              <cell>20675,16</cell>
+                              <cell>22760,53</cell>
+                              <cell>69257,29</cell>
+                              <cell>226657,40</cell>
+                              <cell>5877,59</cell>
+                           </row>
+                           <row>
+                              <cell>9</cell>
+                              <cell>25165,65</cell>
+                              <cell>21604,27</cell>
+                              <cell>90932,81</cell>
+                              <cell>248261,72</cell>
+                              <cell>5366,23</cell>
+                           </row>
+                           <row>
+                              <cell>10</cell>
+                              <cell>28865,56</cell>
+                              <cell>20381,27</cell>
+                              <cell>116098,83</cell>
+                              <cell>268646,13</cell>
+                              <cell>4958,89</cell>
+                           </row>
+                           <row>
+                              <cell>11</cell>
+                              <cell>32787,58</cell>
+                              <cell>19227,72</cell>
+                              <cell>144964,86</cell>
+                              <cell>287870,86</cell>
+                              <cell>4627,83</cell>
+                           </row>
+                           <row>
+                              <cell>12</cell>
+                              <cell>36944,93</cell>
+                              <cell>18139,36</cell>
+                              <cell>177752,81</cell>
+                              <cell>306010,26</cell>
+                              <cell>4353,35</cell>
+                           </row>
+                           <row>
+                              <cell>13</cell>
+                              <cell>41351,58</cell>
+                              <cell>17112,62</cell>
+                              <cell>214697,74</cell>
+                              <cell>323122,89</cell>
+                              <cell>4123,04</cell>
+                           </row>
+                           <row>
+                              <cell>14</cell>
+                              <cell>45022,85</cell>
+                              <cell>16143,95</cell>
+                              <cell>256049,69</cell>
+                              <cell>339266,87</cell>
+                              <cell>3926,67</cell>
+                           </row>
+                           <row>
+                              <cell>15</cell>
+                              <cell>50974,07</cell>
+                              <cell>15130,17</cell>
+                              <cell>302072,54</cell>
+                              <cell>354497,05</cell>
+                              <cell>3758,04</cell>
+                           </row>
+                           <row>
+                              <cell>26</cell>
+                              <cell>56222,77</cell>
+                              <cell>14368,07</cell>
+                              <cell>353046,98</cell>
+                              <cell>368865,45</cell>
+                              <cell>3611,67</cell>
+                           </row>
+                           <row>
+                              <cell>17</cell>
+                              <cell>61786,10</cell>
+                              <cell>13554,78</cell>
+                              <cell>409269,75</cell>
+                              <cell>382420,20</cell>
+                              <cell>3483,56</cell>
+                           </row>
+                           <row>
+                              <cell>18</cell>
+                              <cell>67683,04</cell>
+                              <cell>12787,41</cell>
+                              <cell>471056,22</cell>
+                              <cell>395207,47</cell>
+                              <cell>3370,77</cell>
+                           </row>
+                           <row>
+                              <cell>19</cell>
+                              <cell>73934,03</cell>
+                              <cell>12163,68</cell>
+                              <cell>578739,63</cell>
+                              <cell>407271,19</cell>
+                              <cell>3271,13</cell>
+                           </row>
+                           <row>
+                              <cell>20</cell>
+                              <cell>80560,24</cell>
+                              <cell>11380,84</cell>
+                              <cell>612674,03</cell>
+                              <cell>418652,08</cell>
+                              <cell>3182,07</cell>
+                           </row>
+                           <row>
+                              <cell>21</cell>
+                              <cell>87570,94</cell>
+                              <cell>10736,62</cell>
+                              <cell>693224,28</cell>
+                              <cell>429393,30</cell>
+                              <cell>3102,50</cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>THroughout the Firſt Part the Operations are all performed at large, and is, I hope, ſufficient to explain the Nature of the Scale, and its application to the ſeveral Uſes therein mentioned, as well as to render this Part more brief, by allowing the uſe of theſe
+<pb n="27" facs="tcp:153738:15"/> few Characters undermentioned, in the ſeveral Examples performed therein; which I doubt not but will be as acceptable to the Ingenious, and anſwer my Deſign, in rendering the whole Por<g ref="char:EOLhyphen"/>table (as well as the Scale) on any occaſion.</p>
+                     <list>
+                        <item>For multiplied by ×</item>
+                        <item>Sum or Product z</item>
+                        <item>Equal to =</item>
+                        <item>Added to +</item>
+                        <item>Firſt ſide of the Scale A</item>
+                        <item>Second ſide of the Scale B</item>
+                     </list>
+                  </div>
+                  <div type="part">
+                     <head>Compound Intereſt or increaſe of a Sum of Money, forborn at <hi>6 per Cent.</hi> Side <hi>A.</hi>
+                     </head>
+                     <p>
+                        <hi>Rule.</hi> Multiply the Tabular Number againſt the Year forborn, by the Sum; cut off the De<g ref="char:EOLhyphen"/>cimals, and Tabulate the Integers, adding the Principal to the Sum found.</p>
+                     <div type="examples">
+                        <head>Examples.</head>
+                        <p>What doth 34.<hi>l.</hi> 8.<hi>s.</hi> 0.<hi>d.</hi> amount to, being for<g ref="char:EOLhyphen"/>born 9 Years, at 6 <hi>per Cent. per Ann.</hi> Compound Intereſt.</p>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell> </cell>
+                                 <cell role="label">
+                                    <hi>l.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>s.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>d.</hi>
+                                 </cell>
+                              </row>
+                              <row>
+                                 <cell>9=25165,65x34,4z865698[360=</cell>
+                                 <cell>23.</cell>
+                                 <cell>14.</cell>
+                                 <cell>4¼</cell>
+                              </row>
+                              <row>
+                                 <cell>Principal +</cell>
+                                 <cell>34.</cell>
+                                 <cell>8.</cell>
+                                 <cell>0.</cell>
+                              </row>
+                              <row>
+                                 <cell>Anſwer <hi>l.</hi>
+                                 </cell>
+                                 <cell>58.</cell>
+                                 <cell>2.</cell>
+                                 <cell>4¼.</cell>
+                              </row>
+                           </table>
+                        </p>
+                        <pb n="28" facs="tcp:153738:16"/>
+                        <p>What is the amount of 100 <hi>l.</hi> forborn, 21 Years at 6 <hi>Ditto?</hi>
+                        </p>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell>21=87570,94x100z8757094[00=</cell>
+                                 <cell>239.</cell>
+                                 <cell>18.</cell>
+                                 <cell>4¾.</cell>
+                              </row>
+                              <row>
+                                 <cell>Principal +</cell>
+                                 <cell>100.</cell>
+                                 <cell>0.</cell>
+                                 <cell>0.</cell>
+                              </row>
+                              <row>
+                                 <cell>Anſwer <hi>l.</hi>
+                                 </cell>
+                                 <cell>339.</cell>
+                                 <cell>18.</cell>
+                                 <cell>4¾.</cell>
+                              </row>
+                           </table>
+                        </p>
+                        <p>10 <hi>l.</hi> forborn 7 Years at <hi>Ditto</hi> Rate.</p>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell>7=18382,49x10z183824[9=</cell>
+                                 <cell>5.</cell>
+                                 <cell>0.</cell>
+                                 <cell>8½.</cell>
+                              </row>
+                              <row>
+                                 <cell>Principal +</cell>
+                                 <cell>10.</cell>
+                                 <cell>0.</cell>
+                                 <cell>0.</cell>
+                              </row>
+                              <row>
+                                 <cell>Anſwer <hi>l.</hi>
+                                 </cell>
+                                 <cell>15.</cell>
+                                 <cell>0.</cell>
+                                 <cell>8½.</cell>
+                              </row>
+                           </table>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>
+                        <hi>Compound Rebate or Diſcount at</hi> 6 per Cent. Side A.</head>
+                     <p>Multiply the Tabular Number againſt the Year by the Sum, cut off the Decimals and Ta<g ref="char:EOLhyphen"/>bulate.</p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>What is the preſent worth of 50 <hi>l.</hi> due 11 Years hence at 6 <hi>per Cent.</hi> Compound Intereſt?</p>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell role="label"> </cell>
+                                 <cell role="label">
+                                    <hi>l.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>s.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>d.</hi>
+                                 </cell>
+                              </row>
+                              <row>
+                                 <cell>11=19227,72x50z961386[00=</cell>
+                                 <cell>26.</cell>
+                                 <cell>6.</cell>
+                                 <cell>9¼.</cell>
+                              </row>
+                           </table>
+                        </p>
+                        <p>126.<hi>l.</hi> 10.<hi>s.</hi> 00<hi>d.</hi> due 6 Years hence, What is its pre<g ref="char:EOLhyphen"/>ſent worth at <hi>Ditto</hi> Rate?</p>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell role="label"> </cell>
+                                 <cell role="label">
+                                    <hi>l.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>s.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>d.</hi>
+                                 </cell>
+                              </row>
+                              <row>
+                                 <cell>6=25731,04.x126,5.z3254976[560=</cell>
+                                 <cell>89.</cell>
+                                 <cell>3.</cell>
+                                 <cell>6½</cell>
+                              </row>
+                           </table>
+                        </p>
+                        <pb n="29" facs="tcp:153738:16"/>
+                        <p>What is the preſent worth of 37 <hi>l.</hi> 16 <hi>s.</hi> 00 <hi>d.</hi> due 13 Years hence at <hi>Ditto</hi> Rate?</p>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell> </cell>
+                                 <cell role="label">
+                                    <hi>l.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>s.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>d.</hi>
+                                 </cell>
+                              </row>
+                              <row>
+                                 <cell>13=17112,62x37,8.z646857[036=</cell>
+                                 <cell>17.</cell>
+                                 <cell>14.</cell>
+                                 <cell>5¼</cell>
+                              </row>
+                           </table>
+                        </p>
+                        <p>One Pound due 7 Years hence, What is it now worth at <hi>Ditto</hi> Rate?</p>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell> </cell>
+                                 <cell role="label">
+                                    <hi>l.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>s.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>d.</hi>
+                                 </cell>
+                              </row>
+                              <row>
+                                 <cell>7=24274,48x1.z24274[48=</cell>
+                                 <cell>00.</cell>
+                                 <cell>13.</cell>
+                                 <cell>3½</cell>
+                              </row>
+                           </table>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>Forbearance of Annuities at <hi>6 per C.</hi> Compound Intereſt. <hi>Side A.</hi>
+                     </head>
+                     <p>
+                        <hi>Rule</hi> 1. Multiply the Number againſt the Years forborn, by the Yearly Annuity; cut off the Decimals and Tabulate.</p>
+                     <p n="2">2dly, Multiply the Annuity by the Number of Years, and add the Product to the Sum before found.</p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>A Yearly Rent, Annuity, Penſion, <hi>&amp;c.</hi> of 20 <hi>l.</hi> being forborn 5 Years, What does it amount to at 6 <hi>per Cent</hi> Compound Intereſt?</p>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell>5=23253,78x20z465075[60=<hi>l.</hi>
+                                 </cell>
+                                 <cell>12.</cell>
+                                 <cell>14.</cell>
+                                 <cell>10</cell>
+                              </row>
+                              <row>
+                                 <cell>5×20=100</cell>
+                                 <cell>100.</cell>
+                                 <cell>00.</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Anſwer</hi>
+                                 </cell>
+                                 <cell>112.</cell>
+                                 <cell>14.</cell>
+                                 <cell>10</cell>
+                              </row>
+                           </table>
+                        </p>
+                        <pb n="30" facs="tcp:153738:17"/>
+                        <p>A Yearly Rent of 13 <hi>l.</hi> 10 <hi>s.</hi> having lain 7 Years in the Tenants hands, What muſt now be receiv'd at <hi>Ditto</hi> Rate?</p>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell>7=50874,79x13,5.z686809[665=</cell>
+                                 <cell>18.</cell>
+                                 <cell>16.</cell>
+                                 <cell>04</cell>
+                              </row>
+                              <row>
+                                 <cell>13,5x7=94,5=</cell>
+                                 <cell>94.</cell>
+                                 <cell>10.</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>
+                                    <hi>Anſwer</hi>
+                                 </cell>
+                                 <cell>113.</cell>
+                                 <cell>06.</cell>
+                                 <cell>04</cell>
+                              </row>
+                           </table>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>Diſcount of Annuities at <hi>6 per Cent.</hi> Compound Intereſt. <hi>Side A.</hi>
+                     </head>
+                     <p>
+                        <hi>Rule.</hi> Multiply the Number in the Table a<g ref="char:EOLhyphen"/>gainſt the Year, by the Annuity, cut off the De<g ref="char:EOLhyphen"/>cimal parts and Tabulate.</p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>What is the preſent worth of an Annuity, Pen<g ref="char:EOLhyphen"/>ſion, <hi>&amp;c.</hi> of 60 <hi>l.</hi> to continue 4 Years?</p>
+                        <p>4=126476,33x60z7588579[80=<hi>l.</hi> 207. 18. 1½</p>
+                        <p>What an Annuity of <hi>l.</hi> 32 10 00 for 7 Years <hi>Dit.</hi>
+                        </p>
+                        <p>7=203756,90x32,5.z6622099[250=<hi>l.</hi> 181. 8. 6½</p>
+                        <p>What is the preſent worth of <hi>l.</hi> 17. 07. 06. An<g ref="char:EOLhyphen"/>nuity to continue 12 Years at <hi>Ditto?</hi>
+                        </p>
+                        <p>12=306010,26x17,375.z5316928[26750=<hi>l.</hi> 144. 15. 4 ¾</p>
+                        <p>What one Pound to continue 21 Years at <hi>Dit.</hi>
+                        </p>
+                        <p>21=429393,30x1z429393[30=<hi>l.</hi> 11. 15. 3¼</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <pb n="31" facs="tcp:153738:17"/>
+                     <head>Purchaſe of Annuities at <hi>6 per Cent.</hi> Compound Interest. Side <hi>A.</hi>
+                     </head>
+                     <p>
+                        <hi>Rule.</hi> Multiply the Number in the Table a<g ref="char:EOLhyphen"/>gainſt the Year, by the Sum you have to purchaſe with, cut off the Decimals and Tabu<g ref="char:EOLhyphen"/>bulate.</p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>What will be the Annuity 300 <hi>l.</hi> will purchaſe, to continue 7 Years?</p>
+                        <p>7=6538,25.x300z1961475[00=<hi>l.</hi> 53. 14. 09.</p>
+                        <p>What will 1000 <hi>l.</hi> purchaſe, to continue five Years?</p>
+                        <p>5=8664,73x1000z8664730[00=<hi>l.</hi> 237. 7.9½</p>
+                        <p>What will one Pound purchaſe, to continue 21 Years at <hi>Ditto?</hi>
+                        </p>
+                        <p>21=3102,50x1.z3102[50=<hi>l.</hi> 00 01 8 1/<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </p>
+                        <pb n="32" facs="tcp:153738:18"/>
+                        <p>
+                           <table>
+                              <head>A Table of Proportion to the Side A.</head>
+                              <row>
+                                 <cell> </cell>
+                                 <cell role="label">1</cell>
+                                 <cell role="label">10</cell>
+                                 <cell role="label">20</cell>
+                                 <cell role="label">30</cell>
+                                 <cell role="label">40</cell>
+                              </row>
+                              <row>
+                                 <cell>0</cell>
+                                 <cell>00000</cell>
+                                 <cell>3650,0</cell>
+                                 <cell>1825,0</cell>
+                                 <cell>1216,6</cell>
+                                 <cell>912,50</cell>
+                              </row>
+                              <row>
+                                 <cell>1</cell>
+                                 <cell>36500</cell>
+                                 <cell>3318,2</cell>
+                                 <cell>1738,1</cell>
+                                 <cell>1177,4</cell>
+                                 <cell>890,24</cell>
+                              </row>
+                              <row>
+                                 <cell>2</cell>
+                                 <cell>18250</cell>
+                                 <cell>3041,5</cell>
+                                 <cell>1659,0</cell>
+                                 <cell>1140,5</cell>
+                                 <cell>869,05</cell>
+                              </row>
+                              <row>
+                                 <cell>3</cell>
+                                 <cell>12166</cell>
+                                 <cell>2807,6</cell>
+                                 <cell>1586,9</cell>
+                                 <cell>1106,0</cell>
+                                 <cell>848,28</cell>
+                              </row>
+                              <row>
+                                 <cell>4</cell>
+                                 <cell>9125,0</cell>
+                                 <cell>2607,1</cell>
+                                 <cell>1520,8</cell>
+                                 <cell>1073,5</cell>
+                                 <cell>829,54</cell>
+                              </row>
+                              <row>
+                                 <cell>5</cell>
+                                 <cell>7300,0</cell>
+                                 <cell>2433,3</cell>
+                                 <cell>1460,0</cell>
+                                 <cell>1042,7</cell>
+                                 <cell>811,12</cell>
+                              </row>
+                              <row>
+                                 <cell>6</cell>
+                                 <cell>6083,3</cell>
+                                 <cell>2281,2</cell>
+                                 <cell>1403,8</cell>
+                                 <cell>1013,9</cell>
+                                 <cell>793,48</cell>
+                              </row>
+                              <row>
+                                 <cell>7</cell>
+                                 <cell>5214,2</cell>
+                                 <cell>2147,0</cell>
+                                 <cell>1351,8</cell>
+                                 <cell>986,48</cell>
+                                 <cell>776,59</cell>
+                              </row>
+                              <row>
+                                 <cell>8</cell>
+                                 <cell>4562,5</cell>
+                                 <cell>2027,7</cell>
+                                 <cell>1303,2</cell>
+                                 <cell>960,52</cell>
+                                 <cell>760,41</cell>
+                              </row>
+                              <row>
+                                 <cell>9</cell>
+                                 <cell>4055,5</cell>
+                                 <cell>1921,0</cell>
+                                 <cell>1258,6</cell>
+                                 <cell>935,90</cell>
+                                 <cell>743,18</cell>
+                              </row>
+                              <row>
+                                 <cell> </cell>
+                                 <cell role="label">50</cell>
+                                 <cell role="label">60</cell>
+                                 <cell role="label">70</cell>
+                                 <cell role="label">80</cell>
+                                 <cell role="label">90</cell>
+                              </row>
+                              <row>
+                                 <cell>0</cell>
+                                 <cell>730,00</cell>
+                                 <cell>608,33</cell>
+                                 <cell>521,43</cell>
+                                 <cell>456,25</cell>
+                                 <cell>405,55</cell>
+                              </row>
+                              <row>
+                                 <cell>1</cell>
+                                 <cell>715,68</cell>
+                                 <cell>598,36</cell>
+                                 <cell>514,08</cell>
+                                 <cell>450,81</cell>
+                                 <cell>401,09</cell>
+                              </row>
+                              <row>
+                                 <cell>2</cell>
+                                 <cell>701,91</cell>
+                                 <cell>588,71</cell>
+                                 <cell>506,94</cell>
+                                 <cell>445,12</cell>
+                                 <cell>396,74</cell>
+                              </row>
+                              <row>
+                                 <cell>3</cell>
+                                 <cell>688,68</cell>
+                                 <cell>579,36</cell>
+                                 <cell>500,00</cell>
+                                 <cell>439,65</cell>
+                                 <cell>393,37</cell>
+                              </row>
+                              <row>
+                                 <cell>4</cell>
+                                 <cell>675,92</cell>
+                                 <cell>570,31</cell>
+                                 <cell>493,24</cell>
+                                 <cell>434,52</cell>
+                                 <cell>388,29</cell>
+                              </row>
+                              <row>
+                                 <cell>5</cell>
+                                 <cell>663,62</cell>
+                                 <cell>561,53</cell>
+                                 <cell>486,66</cell>
+                                 <cell>429,41</cell>
+                                 <cell>384,21</cell>
+                              </row>
+                              <row>
+                                 <cell>6</cell>
+                                 <cell>651,78</cell>
+                                 <cell>552,90</cell>
+                                 <cell>480,26</cell>
+                                 <cell>424,41</cell>
+                                 <cell>380,20</cell>
+                              </row>
+                              <row>
+                                 <cell>7</cell>
+                                 <cell>640,35</cell>
+                                 <cell>544,77</cell>
+                                 <cell>474,02</cell>
+                                 <cell>419,54</cell>
+                                 <cell>376,28</cell>
+                              </row>
+                              <row>
+                                 <cell>8</cell>
+                                 <cell>629,31</cell>
+                                 <cell>536,76</cell>
+                                 <cell>467,74</cell>
+                                 <cell>414,74</cell>
+                                 <cell>372,44</cell>
+                              </row>
+                              <row>
+                                 <cell>9</cell>
+                                 <cell>618,64</cell>
+                                 <cell>528,99</cell>
+                                 <cell>462,02</cell>
+                                 <cell>410,11</cell>
+                                 <cell>368,68</cell>
+                              </row>
+                           </table>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>Diviſion on the <hi>Side A.</hi>
+                     </head>
+                     <p>
+                        <hi>Rule.</hi> Multiply the Number found in the pre<g ref="char:EOLhyphen"/>cedent Table againſt the Diviſior by the Dividend,
+<pb n="33" facs="tcp:153738:18"/> cut off the Decimals and Tabulate. The Pounds found will be Integers, and the Shillings and Pence Decimals.</p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>What will be the Quote of 821 divided by 31?</p>
+                        <p>31=1177,4x821z.966645[4=26,483</p>
+                        <p>
+                           <hi>Ditto</hi> 2000 divided by 98.</p>
+                        <p>98=372,44x2000.z744880[00=20,408</p>
+                        <p>There is 323 <hi>l.</hi> 10 <hi>s.</hi> 00 <hi>d.</hi> to be equally di<g ref="char:EOLhyphen"/>vided among 73 Men, What is each Man's ſhare?</p>
+                        <p>73=500,00x323,5z161750[000= 04<hi>l.</hi> 08<hi>s.</hi> 7½<hi>d.</hi>
+                        </p>
+                        <p>There is 10 <hi>l.</hi> to be divided amongſt 78 Men, What is each Man's ſhare?</p>
+                        <p>78=467,74x10z4677[4= 00<hi>l.</hi> 02<hi>s.</hi> 6¾<hi>d.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>Rule of Three Direct. <hi>Side A.</hi>
+                     </head>
+                     <p>
+                        <hi>Rule.</hi> Multiply the Tabular Number to the firſt Term, by the 2d Term, and the Product by, the 3d Term, cut off the Decimals and Tabu<g ref="char:EOLhyphen"/>late.</p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>If 12 Yards, Ells, <hi>&amp;c.</hi> coſt 15 <hi>l.</hi> what will 17 coſt?</p>
+                        <p>12=3041,5x15x17z775582[5=<hi>l.</hi> 21 05 00</p>
+                        <pb n="34" facs="tcp:153738:19"/>
+                        <p>If 26 Acres of Land give 64 <hi>l.</hi> what will 36 of the ſame give?</p>
+                        <p>26=1403,8x64x36z3234355[2=<hi>l.</hi> 88 12 3¾</p>
+                        <p>If the Diameter of a Circle be 7, and its Cir<g ref="char:EOLhyphen"/>cumference 22, What is the Circumference of another Circle, whoſe Diameter is 13?</p>
+                        <p>7=5214,2x22z13=1491261[2=40,856</p>
+                        <p>If 54 Yards, Ells, Pounds, <hi>&amp;c.</hi> coſt 11<hi>l.</hi> 14<hi>s.</hi> 9<hi>d.</hi> What will one coſt?</p>
+                        <p>54=675,92x11,737x1.z7933[27304=<hi>l.</hi> 0 4 4¼</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>Rule of Three Inverſe. <hi>Side A.</hi>
+                     </head>
+                     <p>
+                        <hi>Rule.</hi> Multiply the Tabular Number to the laſt Term by the 2d Term, and the Product by the 1ſt Term, cut of the Decimals and Tabu<g ref="char:EOLhyphen"/>late.</p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>If 45 Men build a Wall in 30 Days, in how many Days will 270 build it?</p>
+                        <p>270=135,18x30x45z182493[00=5 Days.</p>
+                        <p>If 12 Men perform a Work in 5 Days, in what time will 7 Men perform it?</p>
+                        <p>7=5214,2x5x12z.312852[0= 8<hi>d.</hi> 13½<hi>h.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <pb n="35" facs="tcp:153738:19"/>
+                     <head>
+                        <hi>Reduction aſcending.</hi> Side B.</head>
+                     <p>
+                        <hi>Rule.</hi> Tabulate any Number of Pence on the Scale, gives how many Pounds, Shillings and Pence.</p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>In 375022 Pence, how many Pounds, Shil<g ref="char:EOLhyphen"/>lings and Pence.</p>
+                        <p>375022 Tabulated=<hi>l.</hi> 1562. 11. 10.</p>
+                        <p>So 39325 <hi>d.</hi> Tab.=<hi>l.</hi> 163. 17. 1.</p>
+                        <p>In 79462 Farthings, how many <hi>l. s. d.</hi>
+                        </p>
+                        <p>19485 Tab.=<hi>l.</hi> 811. 18. 9½.</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>Reduction Deſcending.</head>
+                     <p>
+                        <hi>Rule.</hi> Tabulate the Sum, and the Index ſhews the Pence.</p>
+                     <p>In 250 <hi>l.</hi> how many Pence, 250 <hi>l.</hi>=60000 <hi>d.</hi>
+                     </p>
+                     <p>In <hi>l.</hi> 79. 5. 7. how many Pence, Tab. the next leſs, till the Sum is compleated.</p>
+                     <p>
+                        <list>
+                           <item>41. 13. 4.</item>
+                           <item>37. 10. 0.</item>
+                           <item>1. 8.</item>
+                           <item>7.</item>
+                        </list> = Index 19027 <hi>d.</hi>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <pb n="36" facs="tcp:153738:20"/>
+                     <head>
+                        <hi>Fellowſhip, Gain.</hi> Side A.</head>
+                     <p>
+                        <hi>Rule.</hi> Multiply the Tabular Number to the whole Stock by the whole Gain, and the Pro<g ref="char:EOLhyphen"/>duct by each Man's Stock gives his Gain, <hi>viz.</hi>
+                     </p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>A 100 <hi>l.</hi> B 40 <hi>l.</hi> C 10 <hi>l.</hi> the whole Stock 150 <hi>l.</hi> and the whole Gain — 43 What is each Man's Proportion of it?</p>
+                        <p>150=243,33x43x100z1046319[00=<hi>l.</hi> 28. 13. 3¾ A</p>
+                        <p>40z418527[60=<hi>l.</hi> 11. 9. 4 B</p>
+                        <p>10z104631[90=<hi>l.</hi> 2. 17. 4 C</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>Loſs.</head>
+                     <p>By the ſame Rule placing, and working the <hi>Loſs</hi> as in the <hi>Gain.</hi>
+                     </p>
+                     <p>All Queſtions of Fellowſhip with time, may be reſolved by the ſame Rule.</p>
+                     <p>Firſt, Multiplying each Man's ſhare by the N<hi rend="sup">o</hi> of Months it was in the Stock, and work as before.</p>
+                  </div>
+                  <div type="part">
+                     <head>Exchange, Foreign into Sterling. <hi>Side B.</hi>
+                     </head>
+                     <p>
+                        <hi>Rule.</hi> Multiply the Number of Dollers, <hi>&amp;c.</hi> by the Number of Pence, in the Rate of each, and Tabulate.</p>
+                     <div type="example">
+                        <pb n="37" facs="tcp:153738:20"/>
+                        <head>Example.</head>
+                        <p>What is 1000 Doll. at 53 Pence <hi>per</hi> Doller?</p>
+                        <p>1000x53z53000=<hi>l.</hi> 220. 16. 8.</p>
+                        <p>But by reaſon, that many times the following Fractions happen in the Rate, it will not be a<g ref="char:EOLhyphen"/>miſs to give the Decimal proper to each; which after Multiplication are to be cut off, <hi>viz.</hi>
+                        </p>
+                        <p>For
+<list>
+                              <item>½=5.</item>
+                              <item>⅜=375</item>
+                              <item>¼=25</item>
+                              <item>⅝=625</item>
+                              <item>¾=75</item>
+                              <item>⅞=875</item>
+                           </list>
+                        </p>
+                     </div>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>What 2300 pieces 8/8 at 57 ⅝ <hi>per</hi> piece.</p>
+                        <p>2300x57,625,z132537[500=<hi>l.</hi> 552. 4. 9.</p>
+                        <p>What 729 Doll. at 55 ⅞ <hi>per</hi> Doll.</p>
+                        <p>729x55,875z40732[875=<hi>l.</hi> 169. 14. 4⅞</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>Engliſh into Foreign.</head>
+                     <p>
+                        <hi>Rule.</hi> Reduce the Rate of one Pound Flemiſh into a Decimal; which multiply by (240) and that by the Number of Pounds Sterling to be remitted, cut off the Decimals and Tabulate.</p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>For how many Pounds Flemiſh, muſt a Bill be drawn for, to remit to <hi>Rotterdam</hi> 100 <hi>l.</hi> Sterling at 34 <hi>s.</hi> 2 <hi>d.</hi> Flemiſh.</p>
+                        <p>240x1,708x100z40992[000=<hi>l.</hi> 170. 16. 0.</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <pb n="39" facs="tcp:153738:21"/>
+                     <head>
+                        <hi>Tare.</hi> Side A.</head>
+                     <p>
+                        <hi>Rule.</hi> Multiply the Tabular N<hi rend="sup">o</hi> to 112, which is (325,89) by the Rate of Tare, and that by the N<hi rend="sup">o</hi> of groſs Pounds, cut off the Decimals and Tabulate.</p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>What is the Tare of 1071 <hi>l.</hi> groſs at 14 <hi>l.</hi> to every 112 <hi>l.</hi>?</p>
+                        <p>325,89x14x1071z4886394[66=133¾</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>
+                        <hi>Tret.</hi> Side A.</head>
+                     <p>
+                        <hi>Rule.</hi> Multiply 693,83 by any Number of ſubtle Pounds and Tabulate, cutting off the De<g ref="char:EOLhyphen"/>cimals.</p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>What is the Tret of 2420 <hi>l.</hi> groſs?</p>
+                        <p>693,83x2420z1679068[60=46 <hi>l.</hi> Tret.</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>Equation of Payments. <hi>Side A.</hi>
+                     </head>
+                     <p>
+                        <hi>Rule.</hi> 1. Multiply each Sum by the time of its becoming due, and add the ſeveral Products for a Multiplier.</p>
+                     <p n="2">2. Multiply the Tabular Number to the Sum of the whole Debt by the ſaid Agregate, cut off the Decimals and Tabulate.</p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>One oweth me 5 <hi>l.</hi> to be paid 3 Months hence.</p>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell>3</cell>
+                                 <cell>6</cell>
+                              </row>
+                              <row>
+                                 <cell>10</cell>
+                                 <cell>9</cell>
+                              </row>
+                              <row>
+                                 <cell>36</cell>
+                                 <cell>12</cell>
+                              </row>
+                           </table>
+                        </p>
+                        <pb n="38" facs="tcp:153738:21"/>
+                        <p>At what time ought the whole to be paid at one Payment.</p>
+                        <p>
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>The Monthly Wages allowed to Seamen in all Rates.</head>
+                     <p>
+                        <table>
+                           <row>
+                              <cell role="label" cols="3">
+                                 <hi>per Month.</hi>
+                              </cell>
+                              <cell role="label" rows="2">
+                                 <hi>Decim.</hi>
+                              </cell>
+                              <cell role="label" cols="3">
+                                 <hi>per Month.</hi>
+                              </cell>
+                              <cell role="label" rows="2">
+                                 <hi>Decim.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell role="label">l.</cell>
+                              <cell role="label">s.</cell>
+                              <cell role="label">d.</cell>
+                              <cell role="label">l.</cell>
+                              <cell role="label">s.</cell>
+                              <cell role="label">d.</cell>
+                           </row>
+                           <row>
+                              <cell>7</cell>
+                              <cell>0</cell>
+                              <cell>0</cell>
+                              <cell>91,250</cell>
+                              <cell>1</cell>
+                              <cell>16</cell>
+                              <cell>0</cell>
+                              <cell>23,462</cell>
+                           </row>
+                           <row>
+                              <cell>6</cell>
+                              <cell>6</cell>
+                              <cell>0</cell>
+                              <cell>82,125</cell>
+                              <cell>1</cell>
+                              <cell>15</cell>
+                              <cell>0</cell>
+                              <cell>22,762</cell>
+                           </row>
+                           <row>
+                              <cell>4</cell>
+                              <cell>13</cell>
+                              <cell>8</cell>
+                              <cell>61,050</cell>
+                              <cell>1</cell>
+                              <cell>14</cell>
+                              <cell>0</cell>
+                              <cell>22,158</cell>
+                           </row>
+                           <row>
+                              <cell>4</cell>
+                              <cell>6</cell>
+                              <cell>2</cell>
+                              <cell>56,158</cell>
+                              <cell>1</cell>
+                              <cell>13</cell>
+                              <cell>9</cell>
+                              <cell>21,995</cell>
+                           </row>
+                           <row>
+                              <cell>4</cell>
+                              <cell>0</cell>
+                              <cell>0</cell>
+                              <cell>52,141</cell>
+                              <cell>1</cell>
+                              <cell>12</cell>
+                              <cell>0</cell>
+                              <cell>20,854</cell>
+                           </row>
+                           <row>
+                              <cell>3</cell>
+                              <cell>17</cell>
+                              <cell>6</cell>
+                              <cell>50,512</cell>
+                              <cell>1</cell>
+                              <cell>10</cell>
+                              <cell>0</cell>
+                              <cell>19,550</cell>
+                           </row>
+                           <row>
+                              <cell>3</cell>
+                              <cell>10</cell>
+                              <cell>0</cell>
+                              <cell>45,625</cell>
+                              <cell>1</cell>
+                              <cell>8</cell>
+                              <cell>0</cell>
+                              <cell>18,250</cell>
+                           </row>
+                           <row>
+                              <cell>3</cell>
+                              <cell>6</cell>
+                              <cell>0</cell>
+                              <cell>42,016</cell>
+                              <cell>1</cell>
+                              <cell>6</cell>
+                              <cell>8</cell>
+                              <cell>17,379</cell>
+                           </row>
+                           <row>
+                              <cell>3</cell>
+                              <cell>1</cell>
+                              <cell>5</cell>
+                              <cell>40,029</cell>
+                              <cell>1</cell>
+                              <cell>6</cell>
+                              <cell>0</cell>
+                              <cell>16,945</cell>
+                           </row>
+                           <row>
+                              <cell>3</cell>
+                              <cell>0</cell>
+                              <cell>0</cell>
+                              <cell>39,104</cell>
+                              <cell>1</cell>
+                              <cell>5</cell>
+                              <cell>0</cell>
+                              <cell>16,291</cell>
+                           </row>
+                           <row>
+                              <cell>2</cell>
+                              <cell>16</cell>
+                              <cell>2</cell>
+                              <cell>36,608</cell>
+                              <cell>1</cell>
+                              <cell>4</cell>
+                              <cell>0</cell>
+                              <cell>15,641</cell>
+                           </row>
+                           <row>
+                              <cell>2</cell>
+                              <cell>10</cell>
+                              <cell>0</cell>
+                              <cell>32,587</cell>
+                              <cell>1</cell>
+                              <cell>3</cell>
+                              <cell>4</cell>
+                              <cell>15,208</cell>
+                           </row>
+                           <row>
+                              <cell>2</cell>
+                              <cell>7</cell>
+                              <cell>10</cell>
+                              <cell>31,175</cell>
+                              <cell>1</cell>
+                              <cell>0</cell>
+                              <cell>8</cell>
+                              <cell>13,467</cell>
+                           </row>
+                           <row>
+                              <cell>2</cell>
+                              <cell>5</cell>
+                              <cell>0</cell>
+                              <cell>29,329</cell>
+                              <cell>1</cell>
+                              <cell>0</cell>
+                              <cell>0</cell>
+                              <cell>13,033</cell>
+                           </row>
+                           <row>
+                              <cell>2</cell>
+                              <cell>2</cell>
+                              <cell>0</cell>
+                              <cell>27,375</cell>
+                              <cell>0</cell>
+                              <cell>19</cell>
+                              <cell>0</cell>
+                              <cell>12,382</cell>
+                           </row>
+                           <row>
+                              <cell>2</cell>
+                              <cell>0</cell>
+                              <cell>0</cell>
+                              <cell>26,070</cell>
+                              <cell>0</cell>
+                              <cell>14</cell>
+                              <cell>3</cell>
+                              <cell>9,287</cell>
+                           </row>
+                           <row>
+                              <cell>1</cell>
+                              <cell>17</cell>
+                              <cell>6</cell>
+                              <cell>24,441</cell>
+                              <cell>0</cell>
+                              <cell>9</cell>
+                              <cell>6</cell>
+                              <cell>6,291</cell>
+                           </row>
+                           <row>
+                              <cell>1</cell>
+                              <cell>16</cell>
+                              <cell>8</cell>
+                              <cell>23,895</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                        </table>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <pb n="40" facs="tcp:153738:22"/>
+                     <head>
+                        <hi>Seamen's Wages.</hi> Side A.</head>
+                     <p>
+                        <hi>Rule.</hi> Multiply the Tabular Number againſt any Rate <hi>per Menſem,</hi> by the Number of Days; cut off one Figure to the Right-hand and Tabu<g ref="char:EOLhyphen"/>late.</p>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>At <hi>l.</hi> 1. 17. 6 <hi>per</hi> Month, what 202 Days?</p>
+                        <p>1.17.6=24,441x202z493708[2=<hi>l.</hi> 13. 10. 6¼.</p>
+                        <p>At <hi>l.</hi> 1.3.4. <hi>per</hi> Month, what 341 Days?</p>
+                        <p>1.3.4=15,208x341z518592[8=<hi>l.</hi> 14. 4. 2.</p>
+                        <p>If the Tabular Number to any Sum <hi>per Men<g ref="char:EOLhyphen"/>ſem,</hi> be Tabulated on the Scale, firſt cutting off one Figure to the Right-hand, gives what <hi>per Diem.</hi>
+                        </p>
+                     </div>
+                     <div type="example">
+                        <head>Example.</head>
+                        <p>At <hi>l.</hi> 3.17.6. <hi>per</hi> Month, what one Day?</p>
+                        <p>3.17.6=5051[2=<hi>l.</hi> 0. 2. 9.</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>Simple Intereſt for Quarters.</head>
+                     <list>
+                        <item>For a Quarter of a Year × by 91,25</item>
+                        <item>For Six Months × by 182,5</item>
+                        <item>For Nine Months × by 273,75</item>
+                     </list>
+                  </div>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:153738:22"/>
+                  <pb facs="tcp:153738:23"/>
+                  <pb facs="tcp:153738:23" rendition="simple:additions"/>
+                  <pb facs="tcp:153738:24"/>
+                  <pb facs="tcp:153738:24" rendition="simple:additions"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
